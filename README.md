@@ -22,6 +22,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
+## 🎯 My Hobbies
+- Chess, mathematics, and running are my favorite hobbies.
+- Chess teaches me strategy and focus.
+- Mathematics sharpens my logic and attention to detail.
+- Running keeps both my mind and body healthy.
+- Together, they help me become a better programmer.
+
+
+
 # Socials
 [![Telegram](https://img.shields.io/badge/abdukholiqov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdukholiqov_husniddin)
 [![Instagram](https://img.shields.io/badge/abdukholiqov-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdukholiqov_husniddin/)
