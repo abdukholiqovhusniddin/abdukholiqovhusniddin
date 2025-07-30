@@ -30,7 +30,7 @@
 - Together, they help me become a better programmer.
 
 ## 🎓 A Bit About My Education
-- I am a second-year student at Khujand State University named after Bobojon Gafurov, <br> where I am expanding my knowledge and discovering new opportunities for growth every day.
+- I am a 3-year student at Khujand State University named after Bobojon Gafurov, <br> where I am expanding my knowledge and discovering new opportunities for growth every day.
 
 # Socials
 [![Telegram](https://img.shields.io/badge/abdukholiqov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdukholiqov_husniddin)
