@@ -1,5 +1,5 @@
 ## Hi there, I'm Husniddin 👋
-- 💻 Aspiring Back-End Developer
+- 💻 Back-End Developer
 - 🔍 How to reach me: [Instagram](https://www.instagram.com/abdukholiqov_husniddin/), [Telegram](https://t.me/abdukholiqov_husniddin)
 
 <div align="left">
